@@ -39,6 +39,7 @@ To address the problem of the current manual system, we suggest a Check in/ Chec
 - User registration and authentication
 - Attendance/activity tracking
 - Automated check-in/check-out
+- User-friendly interface
 
 #### **Features**
 - User Account Management: Users can log in and manage their profiles.
