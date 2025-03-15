@@ -34,8 +34,7 @@ To address the problem of the current manual system, we suggest a Check in/ Chec
 5. Automate the check-in/check-out process
 
 ## Application Description:
-[Provide a detailed description of your application, including its functionality,
-features, and any other relevant information.]
+
 #### **Requirements**
 - User registration and authentication
 - Attendance/activity tracking
