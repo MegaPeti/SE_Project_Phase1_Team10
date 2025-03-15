@@ -24,7 +24,7 @@ Software Engineering Project
 A company was facing issues with keeping track of its employees’ activity and attendance at work. They still relied on paper-based logs so that left a lot of room for human errors, false reports, misplaced errors and what matters most it was an every-day time consuming process. Without an automated system, the company was prone to unauthorized check-in and false logs. Also, management struggles to make analytics about an employee’s attendance at work, tardiness or day-offs due to the absence of historical data or loss of papers through the time.
 
 ## Solution Proposed:
-[Provide a description of the solution you propose.]
+To address the problem of the current manual system, we suggest a Check in/ Check out system application that ensures no bypass, accurate tracking and enhanced security that also leads to fair payroll for all employees at the end of the month regarding their regular attendance, tardiness, days off, sick leave, overtime etc.
 
 ## Project Scope:
 - **Aim:** [Specify the aim of your project.]
