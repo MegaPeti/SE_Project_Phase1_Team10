@@ -63,7 +63,6 @@ To address the problem of the current manual system, we suggest a Check in/ Chec
 # Roles and Tasks Distribution
 
 ## Team Leader:
-[Specify the main responsibilities and tasks assigned to the team leader.]
 Patrik Xhaferri (Software Engineer) - Homepage, Filtered search function, User Change Request, UI (shared responsibility), Database (shared responsibility)
 
 ## Main Roles and Tasks:
