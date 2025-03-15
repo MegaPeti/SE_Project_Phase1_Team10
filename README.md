@@ -25,6 +25,7 @@ To address the problem of the current manual system, we suggest a Check in/ Chec
 
 ## Project Scope:
 - **Aim:** This project will assist with automating the access management efficiently to reduce manual errors, improve the record accuracy through secure user authentication and providing real-time tracking and reporting
+
 - **Main Objectives:**
 1. Minimize manual logging and administrative efforts
 2. Create a user-friendly application for easy access and management
@@ -35,6 +36,11 @@ To address the problem of the current manual system, we suggest a Check in/ Chec
 ## Application Description:
 [Provide a detailed description of your application, including its functionality,
 features, and any other relevant information.]
+#### **Requirements**
+- User registration and authentication
+- Attendance/activity tracking
+- Automated check-in/check-out
+
 #### **Features**
 - User Account Management: Users can log in and manage their profiles.
 - Attendance History: Users can see and export historical records of their chech-ins and check-outs from work.
@@ -44,10 +50,14 @@ features, and any other relevant information.]
 - Tracking: Admin can track the attendance of all employees.
 - Reqeust Form: Admin can accept or decline user's request to change credentials.
 
-#### **Requirements**
-o	User registration and authentication
-o Attendance/activity tracking
-o Automated check-in/check-out
+#### **Intended Users**
+- Employees & staff
+- Administrators & managers
+
+#### **Limitations**
+- Offline mode
+- Multi-language support
+- Advanced recognition features
 
 # Roles and Tasks Distribution
 
