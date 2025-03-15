@@ -44,12 +44,12 @@ To address the problem of the current manual system, we suggest a Check in/ Chec
 #### **Features**
 - User Account Management: Users can log in and manage their profiles.
 - Homepage: Selecting whether you are a simple user or admin
-- Attendance History: Users can see and export historical records of their chech-ins and check-outs from work.
+- Attendance History: Users can see and export historical records of their check-ins and check-outs from work.
 - Change Credentials: Users can issue a request to the management to change username, password or email.
 - Employee Management: Admin can add, update or delete an employee's information from the record table.
 - Search function: Search for a specific employee through filters.
 - Tracking: Admin can track the attendance of all employees.
-- Reqeust Form: Admin can accept or decline user's request to change credentials.
+- Request Form: Admin can accept or decline user's request to change credentials.
 
 #### **Intended Users**
 - Employees & staff
