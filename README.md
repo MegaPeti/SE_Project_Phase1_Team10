@@ -5,22 +5,23 @@ Software Engineering Project
 ## Team Name: Team 10
 
 ## Team Leader:
-- **Name:** [Team Leader's Name]
-- **GitHub Username:** [GitHub Username]
+- **Name:** Patrik Xhaferri
+- **GitHub Username:** MegaPeti
 
 ## Team Members:
-1. [Member 1 Name] - GitHub: [GitHub Username]
-2. [Member 2 Name] - GitHub: [GitHub Username]
-3. [Member 3 Name] - GitHub: [GitHub Username]
+1. Arjel Sulollari - GitHub: [GitHub Username]
+2. Nikol Deçolli - GitHub: [GitHub Username]
+3. Patrik Xhaferri - GitHub: [GitHub Username]
 4. [Member 4 Name] - GitHub: [GitHub Username]
 5. [Member 5 Name] - GitHub: [GitHub Username]
 6. [Member 6 Name] - GitHub: [GitHub Username]
 
 # Project Details
 
-## Project Title: [Your Project Title]
+## Project Title: Check in/ Check out system
 
 ## Problem Statement:
+A company was facing issues with keeping track of its employees’ activity and attendance at work. They still relied on paper-based logs so that left a lot of room for human errors, false reports, misplaced errors and what matters most it was an every-day time consuming process. Without an automated system, the company was prone to unauthorized check-in and false logs. Also, management struggles to make analytics about an employee’s attendance at work, tardiness or day-offs due to the absence of historical data or loss of papers through the time. 
 [Clearly express the problem identified based on the need analysis.]
 
 ## Solution Proposed:
