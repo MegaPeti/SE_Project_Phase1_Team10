@@ -2,7 +2,7 @@
 Software Engineering Project
 
 # Team Information
-## Team Name: [Your Team Name]
+## Team Name: Team 10
 
 ## Team Leader:
 - **Name:** [Team Leader's Name]
