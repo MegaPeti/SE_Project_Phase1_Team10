@@ -9,9 +9,9 @@ Software Engineering Project
 - **GitHub Username:** MegaPeti
 
 ## Team Members:
-1. Arjel Sulollari - GitHub: [GitHub Username]
-2. Nikol Deçolli - GitHub: [GitHub Username]
-3. Patrik Xhaferri - GitHub: [GitHub Username]
+1. Arjel Sulollari - GitHub: Arjel21, Email: asulollari22@epoka.edu.al
+2. Nikol Deçolli - GitHub: Nikol20022, Email: ndecolli22@epoka.edu.al
+3. Patrik Xhaferri - GitHub: MegaPeti, Email: patrikxhaferri@gmail.com
 
 # Project Details
 
