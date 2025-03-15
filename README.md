@@ -43,6 +43,7 @@ To address the problem of the current manual system, we suggest a Check in/ Chec
 
 #### **Features**
 - User Account Management: Users can log in and manage their profiles.
+- Homepage: Selecting whether you are a simple user or admin
 - Attendance History: Users can see and export historical records of their chech-ins and check-outs from work.
 - Change Credentials: Users can issue a request to the management to change username, password or email.
 - Employee Management: Admin can add, update or delete an employee's information from the record table.
@@ -63,14 +64,11 @@ To address the problem of the current manual system, we suggest a Check in/ Chec
 
 ## Team Leader:
 [Specify the main responsibilities and tasks assigned to the team leader.]
+Patrik Xhaferri (Software Engineer) - Homepage, Filtered search function, User Change Request, UI (shared responsibility), Database (shared responsibility)
 
 ## Main Roles and Tasks:
-1. [Team Member 1] - [Role and Tasks Assigned]
-2. [Team Member 2] - [Role and Tasks Assigned]
-3. [Team Member 3] - [Role and Tasks Assigned]
-4. [Team Member 4] - [Role and Tasks Assigned]
-5. [Team Member 5] - [Role and Tasks Assigned]
-6. [Team Member 6] - [Role and Tasks Assigned]
+1. Arjel Sulollari (Full-stack developer) - Login, Add/Update/Delete User, Admin Change Request, UI (shared responsibility), Database (shared responsibility)
+2. Nikol Deçolli (Full-stack developer & Tester)- Interface table, Export records, Check in/checko out, User History, UI (shared responsibility), Database (shared responsibility)
 
 # Deadline
 Submission Deadline: 15.03.2025, 23:59 hours.
