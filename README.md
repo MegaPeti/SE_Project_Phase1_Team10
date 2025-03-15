@@ -21,8 +21,7 @@ Software Engineering Project
 ## Project Title: Check in/ Check out system
 
 ## Problem Statement:
-A company was facing issues with keeping track of its employees’ activity and attendance at work. They still relied on paper-based logs so that left a lot of room for human errors, false reports, misplaced errors and what matters most it was an every-day time consuming process. Without an automated system, the company was prone to unauthorized check-in and false logs. Also, management struggles to make analytics about an employee’s attendance at work, tardiness or day-offs due to the absence of historical data or loss of papers through the time. 
-[Clearly express the problem identified based on the need analysis.]
+A company was facing issues with keeping track of its employees’ activity and attendance at work. They still relied on paper-based logs so that left a lot of room for human errors, false reports, misplaced errors and what matters most it was an every-day time consuming process. Without an automated system, the company was prone to unauthorized check-in and false logs. Also, management struggles to make analytics about an employee’s attendance at work, tardiness or day-offs due to the absence of historical data or loss of papers through the time.
 
 ## Solution Proposed:
 [Provide a description of the solution you propose.]
