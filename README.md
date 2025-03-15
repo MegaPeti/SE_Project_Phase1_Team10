@@ -29,9 +29,11 @@ To address the problem of the current manual system, we suggest a Check in/ Chec
 ## Project Scope:
 - **Aim:** This project will assist with automating the access management efficiently to reduce manual errors, improve the record accuracy through secure user authentication and providing real-time tracking and reporting
 - **Main Objectives:**
-1. [Objective 1]
-2. [Objective 2]
-3. ...
+1. Minimize manual logging and administrative efforts
+2. Create a user-friendly application for easy access and management
+3. Improve security and access control
+4. Enable real-time monitoring and data accuracy
+5. Automate the check-in/check-out process
 
 ## Application Description:
 [Provide a detailed description of your application, including its functionality,
