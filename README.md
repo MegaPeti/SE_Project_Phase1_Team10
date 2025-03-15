@@ -12,9 +12,6 @@ Software Engineering Project
 1. Arjel Sulollari - GitHub: [GitHub Username]
 2. Nikol Deçolli - GitHub: [GitHub Username]
 3. Patrik Xhaferri - GitHub: [GitHub Username]
-4. [Member 4 Name] - GitHub: [GitHub Username]
-5. [Member 5 Name] - GitHub: [GitHub Username]
-6. [Member 6 Name] - GitHub: [GitHub Username]
 
 # Project Details
 
