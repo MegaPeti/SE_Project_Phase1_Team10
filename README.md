@@ -27,7 +27,7 @@ A company was facing issues with keeping track of its employees’ activity and 
 To address the problem of the current manual system, we suggest a Check in/ Check out system application that ensures no bypass, accurate tracking and enhanced security that also leads to fair payroll for all employees at the end of the month regarding their regular attendance, tardiness, days off, sick leave, overtime etc.
 
 ## Project Scope:
-- **Aim:** [Specify the aim of your project.]
+- **Aim:** This project will assist with automating the access management efficiently to reduce manual errors, improve the record accuracy through secure user authentication and providing real-time tracking and reporting
 - **Main Objectives:**
 1. [Objective 1]
 2. [Objective 2]
