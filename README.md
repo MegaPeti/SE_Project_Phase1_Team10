@@ -13,6 +13,8 @@ Software Engineering Project
 2. Nikol Deçolli - GitHub: Nikol20022, Email: ndecolli22@epoka.edu.al
 3. Patrik Xhaferri - GitHub: MegaPeti, Email: patrikxhaferri@gmail.com, pxhaferri22@epoka.edu.al
 
+different information
+
 # Project Details
 
 ## Project Title: Check in/ Check out system
