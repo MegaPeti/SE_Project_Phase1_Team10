@@ -14,7 +14,7 @@ Software Engineering Project
 3. Patrik Xhaferri - GitHub: MegaPeti, Email: patrikxhaferri@gmail.com, pxhaferri22@epoka.edu.al
 
 different information
-12345678985
+12345678985, 85462561233333
 
 # Project Details
 
