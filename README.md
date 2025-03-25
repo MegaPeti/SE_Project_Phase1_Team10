@@ -11,20 +11,7 @@ Software Engineering Project
 ## Team Members:
 1. Arjel Sulollari - GitHub: Arjel21, Email: asulollari22@epoka.edu.al
 2. Nikol Deçolli - GitHub: Nikol20022, Email: ndecolli22@epoka.edu.al
-3. Patrik Xhaferri - GitHub: MegaPeti, Email: patrikxhaferri@gmail.com, pxhaferri22@epoka.edu.
-information data
-7898894897879
-
-different information
-12345678985
-
-
-
-
-
-fghsld;fksk;nfkldsjfsjl
-sdfndskfkjsnfkjdsfnkjds
-sdkdsfkjsdfkjdsbfkjsd
+3. Patrik Xhaferri - GitHub: MegaPeti, Email: patrikxhaferri@gmail.com, pxhaferri22@epoka.edu.al
 
 # Project Details
 
