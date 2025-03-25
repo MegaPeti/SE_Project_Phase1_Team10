@@ -12,7 +12,7 @@ Software Engineering Project
 1. Arjel Sulollari - GitHub: Arjel21, Email: asulollari22@epoka.edu.al
 2. Nikol Deçolli - GitHub: Nikol20022, Email: ndecolli22@epoka.edu.al
 3. Patrik Xhaferri - GitHub: MegaPeti, Email: patrikxhaferri@gmail.com, pxhaferri22@epoka.edu.
-information
+information data
 
 # Project Details
 
