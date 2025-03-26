@@ -136,6 +136,27 @@ The system should have an overall great performance and ease the experience of t
 -	The system should be able to scale up to around 100 concurrent users
 -	The system must perform without fatal errors in 95% of the use cases during a month
 -	The most frequently used features must be reached with minimal navigation
+## 5.	Application Specifications
+#### **a. Database Model**
+![image](https://github.com/user-attachments/assets/6acca76d-9fa1-4887-ac7e-9ce466e7f95b)
+#### **b. Technologies Used**
+- Java – our main backend programming language
+- JFrame, Java Swing – frontend frameworks
+- Springboot (optional) – Java web framework
+#### **c. User Interface Design**
+![image](https://github.com/user-attachments/assets/da6b03f8-5914-49ee-8c75-7e4fe5e2327d)
+![image](https://github.com/user-attachments/assets/282f6799-f3e2-4d8f-83c3-0ca5b801deee)
+![image](https://github.com/user-attachments/assets/43b8b224-a6d4-49f8-b974-fe0957ea2f73)
+#### **d. Security Measure**
+#### **Authentication**
+- QR code-based login: Users must scan a unique QR code to log in securely
+-	Account lockout: If a user enters the wrong password 5 times their account gets locked for 10 minutes to prevent brute force attacks
+#### **Data encryption and storage**
+- Database encryption  Sensitive data like passwords will be hashed and salted
+#### **System monitoring**
+- Automatic session expiry  If a user stays idle or inactive for 15 minutes they will be automatically logged out to prevent unauthorized access
+
+
 
 
 
