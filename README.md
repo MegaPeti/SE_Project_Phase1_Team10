@@ -91,5 +91,56 @@ For this project, we chose to follow the Agile development model due to its flex
 | End-user | “As an end user, I want to check in quickly using my QR code, so that I don’t waste time in long queues or manual logbooks.” | The system should provide a QR code scanning identification, Instant logging of check-in time | Time-efficient, Reduces human error |
 | Manager | “As an administrator, I want to see a real-time dashboard of check-ins and check-outs, so that I can track attendance in real-time.” | A live dashboard displaying check-ins/check-outs, Being able to filter users by categories | Improves management overseeing
 | HR manager | “As an HR manager, I want to calculate payroll based on accurate logs of users’ attendance, tardiness, day offs, sick leaves etc.” | Reports must include total work hours, late arrivals and absence, A form of documentation by exporting | Reduces errors, Compliant to work hour policies |
+## 3.	Functional Requirements
+#### **a. Brief Description**
+- User Account Management: Users can log in through QR code identification and manage their profiles.
+- Homepage: Selecting whether you are a simple user or admin.
+-	Attendance History: Users can see and export historical records of their check-ins and check-outs from work.
+-	Change Credentials: Users can issue a request to the management to change username, password or email.
+-	Employee Management: Admin can add, update or delete an employee's information from the record table.
+-	Search function: Search for a specific employee through filters.
+-	Tracking: Admin can track the attendance of all employees.
+-	Request Form: Admin can accept or decline user's request to change credentials.
+#### **b.	Acceptance Criteria**
+#### **User Account Management**
+-	Users can log in using QR code authentication
+-	Users can view and change their profile information
+-	After successful/failed login, the system shows a clear message or redirects user to another page
+#### **Homepage**
+-	When entering the system, users see an option to choose between “User” or “Admin” access
+-	Selection redirects to the corresponding panel, User Account Management or Admin Panel
+-	Unauthorized users can not access the Admin Panel
+#### **Attendance History**
+-	Users can view their daily check-in/check-out records
+-	User can export attendance records in Excel
+-	Data is automatically updated and cannot be modified by users
+#### **Change Credentials**
+-	Users can request to change their username, password or email through a request form to strengthen their security
+-	The system forwards the request to the admin for approval
+-	User receives notification about the status of their request 
+-	Depending on the action, the system updates the credentials and sends a confirmation message
+#### **Employee Management (Admin Panel)**
+-	Admin can add new user with all necessary information
+-	Admin can update employee records 
+-	Admin can delete an employee’s record 
+-	Admin can view all attendance records for each user
+#### **Search Function**
+-	Admin can search for a user by name, age, gender or role using filters
+-	Results are displayed without reloading the page
+## 4.	Non-Functional Requirements
+#### **a. Brief Description**
+The system should have an overall great performance and ease the experience of the users. As times go by, if there is any problem, the IT department will not struggle with managing the system and fixing its components in a short time. It will use security best practices and we will make sure the performance does not decline in higher workloads. And it should work in different environments as well
+#### **b.	Acceptance Criteria**
+-	Each page must load within 2 seconds 
+-	Users shall be equipped with QR codes to authenticate themselves
+-	The system should be able to scale up to around 100 concurrent users
+-	The system must perform without fatal errors in 95% of the use cases during a month
+-	The most frequently used features must be reached with minimal navigation
+
+
+
+
+
+
 
 
