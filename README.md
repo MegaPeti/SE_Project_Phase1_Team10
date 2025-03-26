@@ -89,7 +89,7 @@ For this project, we chose to follow the Agile development model due to its flex
 | User Type | User Story | Requirement | Benefit |
 | --- | --- | --- | --- |
 | End-user | “As an end user, I want to check in quickly using my QR code, so that I don’t waste time in long queues or manual logbooks.” | The system should provide a QR code scanning identification, Instant logging of check-in time | Time-efficient, Reduces human error |
+| Manager | “As an administrator, I want to see a real-time dashboard of check-ins and check-outs, so that I can track attendance in real-time.” | A live dashboard displaying check-ins/check-outs, Being able to filter users by categories | Improves management overseeing
+| HR manager | “As an HR manager, I want to calculate payroll based on accurate logs of users’ attendance, tardiness, day offs, sick leaves etc.” | Reports must include total work hours, late arrivals and absence, A form of documentation by exporting | Reduces errors, Compliant to work hour policies |
 
 
-| Manager | Show file differences that haven't been staged |
-| HR manager | Show file differences that haven't been staged |
