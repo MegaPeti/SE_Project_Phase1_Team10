@@ -149,12 +149,12 @@ The system should have an overall great performance and ease the experience of t
 ![image](https://github.com/user-attachments/assets/43b8b224-a6d4-49f8-b974-fe0957ea2f73)
 #### **d. Security Measure**
 #### **Authentication**
-- QR code-based login: Users must scan a unique QR code to log in securely
--	Account lockout: If a user enters the wrong password 5 times their account gets locked for 10 minutes to prevent brute force attacks
+- QR code-based login:   Users must scan a unique QR code to log in securely
+-	Account lockout:   If a user enters the wrong password 5 times their account gets locked for 10 minutes to prevent brute force attacks
 #### **Data encryption and storage**
-- Database encryption  Sensitive data like passwords will be hashed and salted
+- Database encryption:  Sensitive data like passwords will be hashed and salted
 #### **System monitoring**
-- Automatic session expiry  If a user stays idle or inactive for 15 minutes they will be automatically logged out to prevent unauthorized access
+- Automatic session expiry:  If a user stays idle or inactive for 15 minutes they will be automatically logged out to prevent unauthorized access
 
 
 
