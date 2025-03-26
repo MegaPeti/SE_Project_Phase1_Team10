@@ -88,9 +88,7 @@ For this project, we chose to follow the Agile development model due to its flex
 #### **b. User Stories**
 | User Type | User Story | Requirement | Benefit |
 | --- | --- | --- | --- |
-| End-user | “As an end user, I want to check in quickly using my QR code, so that I don’t waste time in long queues or manual logbooks.” | The system should provide a QR code scanning identification;
-Instant logging of check-in time | Time-efficient;
-Reduces human error
+| End-user | “As an end user, I want to check in quickly using my QR code, so that I don’t waste time in long queues or manual logbooks.” | The system should provide a QR code scanning identification, Instant logging of check-in time | Time-efficient, Reduces human error |
 
 
 | Manager | Show file differences that haven't been staged |
