@@ -74,3 +74,15 @@ Submission Deadline: 15.03.2025, 23:59 hours.
 
 # Additional Notes
 [Include any additional notes or instructions for the submission.]
+
+# Phase II: User Requirements and Application Specifications
+## 1.	Chosen Development Model
+For this project, we chose to follow the Agile development model due to its flexibility, adaptability and iterative approach. The reason behind selecting this model is that agile allows for continuous improvement through iterative cycles and getting feedback from the stakeholders allows the system to align with their needs. Being tolerant to adaptability, it allows for frequent and quick adjustments and not to mention that is less prone to risks of major failures since it has early testing and follows an incremental development.
+## 2.	User Requirements
+#### **a. Stakeholders**
+- Employees (end-users) – they will use the system to check in and check out so what they need is a comprehensive, accurate and efficient system
+- Managers - what they are looking for is real-time monitoring  and reports so they can supervise the users’ attendance and activity
+- IT department - they are aiming to have secure access control and system scalability because they will be responsible for maintaining the system and dealing with troubleshooting
+- HR team - based on users’ attendance, they will calculate payroll
+- Business owners - they have the final word about approving the system implementation and budget
+#### **b. User Stories**
