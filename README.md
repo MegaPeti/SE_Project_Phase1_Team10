@@ -86,3 +86,12 @@ For this project, we chose to follow the Agile development model due to its flex
 - HR team - based on users’ attendance, they will calculate payroll
 - Business owners - they have the final word about approving the system implementation and budget
 #### **b. User Stories**
+| User Type | User Story | Requirement | Benefit |
+| --- | --- | --- | --- |
+| End-user | “As an end user, I want to check in quickly using my QR code, so that I don’t waste time in long queues or manual logbooks.” | The system should provide a QR code scanning identification;
+Instant logging of check-in time | Time-efficient;
+Reduces human error
+
+
+| Manager | Show file differences that haven't been staged |
+| HR manager | Show file differences that haven't been staged |
