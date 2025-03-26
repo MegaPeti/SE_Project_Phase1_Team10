@@ -155,6 +155,8 @@ The system should have an overall great performance and ease the experience of t
 - Database encryption:  Sensitive data like passwords will be hashed and salted
 #### **System monitoring**
 - Automatic session expiry:  If a user stays idle or inactive for 15 minutes they will be automatically logged out to prevent unauthorized access
+# Deadline
+Submission Deadline: 26.03.2025, 23:59 hours
 
 
 
