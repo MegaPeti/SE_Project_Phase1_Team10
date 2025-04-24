@@ -159,6 +159,31 @@ The system should have an overall great performance and ease the experience of t
 Submission Deadline: 26.03.2025, 23:59 hours
 
 # Phase III: Software Design and Modeling 
+## Software Architecture
+#### **Software Architecture**
+The system is going to be a Java-based desktop application
+- User Interface: Using Java Swing, it enable users to get around the system and direct actions to the controller.
+-	Controller: Takes the input form the interface and controls the logic by calling the right methods.
+-	Business Logic: Contains the logic of validating users and recording timestamps.
+-	Data Access Layer: Communicates with the database or file system to store and retrieve check-in/out records and user data.
+-	Model: These are Java classes with attributes and getters/setters.
+-	Database: Stores information such as users and check-in history.
+#### **Component diagram**
+![image](https://github.com/user-attachments/assets/8db23d39-8bc0-4fb8-9356-61a59abaf55c)
+#### **Detailed Design**
+#### **Class diagram**
+![image](https://github.com/user-attachments/assets/dad3542b-fcfb-415d-b48c-16ee2a35794e)
+#### **Sequence diagram**
+![image](https://github.com/user-attachments/assets/c65175cc-aa3d-47a4-b843-5463d417c32a)
+#### **Database design**
+#### **Modeling**
+#### **Use case diagram**
+![image](https://github.com/user-attachments/assets/a15ecd71-f904-4d40-805b-0f84a0ffafe4)
+#### **Activity diagram**
+![image](https://github.com/user-attachments/assets/0052b310-45dc-453a-8b47-b9c4bc654275) ![image](https://github.com/user-attachments/assets/12c8b3b6-2991-4c50-aca8-b25bd868fa4f)
+
+
+
 
 
 
