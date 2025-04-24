@@ -170,13 +170,14 @@ The system is going to be a Java-based desktop application
 -	Database: Stores information such as users and check-in history.
 #### **Component diagram**
 ![image](https://github.com/user-attachments/assets/8db23d39-8bc0-4fb8-9356-61a59abaf55c)
-#### **Detailed Design**
+### **Detailed Design**
 #### **Class diagram**
 ![image](https://github.com/user-attachments/assets/dad3542b-fcfb-415d-b48c-16ee2a35794e)
 #### **Sequence diagram**
 ![image](https://github.com/user-attachments/assets/c65175cc-aa3d-47a4-b843-5463d417c32a)
 #### **Database design**
-#### **Modeling**
+![image](https://github.com/user-attachments/assets/13ed5293-28bc-4672-8a4d-5f0a592992a6)
+### **Modeling**
 #### **Use case diagram**
 ![image](https://github.com/user-attachments/assets/a15ecd71-f904-4d40-805b-0f84a0ffafe4)
 #### **Activity diagram**
