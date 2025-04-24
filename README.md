@@ -180,7 +180,13 @@ The system is going to be a Java-based desktop application
 #### **Use case diagram**
 ![image](https://github.com/user-attachments/assets/a15ecd71-f904-4d40-805b-0f84a0ffafe4)
 #### **Activity diagram**
-![image](https://github.com/user-attachments/assets/0052b310-45dc-453a-8b47-b9c4bc654275) ![image](https://github.com/user-attachments/assets/12c8b3b6-2991-4c50-aca8-b25bd868fa4f)
+![image](https://github.com/user-attachments/assets/0052b310-45dc-453a-8b47-b9c4bc654275) ![image](https://github.com/user-attachments/assets/12c8b3b6-2991-4c50-aca8-b25bd868fa4f) ![image](https://github.com/user-attachments/assets/b0dccec1-2b0a-49d8-9883-357d3035e719) ![image](https://github.com/user-attachments/assets/ac572956-8bca-4235-8be2-033352fc85ea) ![image](https://github.com/user-attachments/assets/f8fcf6ca-9a19-4113-917c-78a0bb13599b)
+#### **State diagram**
+![image](https://github.com/user-attachments/assets/43942aa4-84af-4988-ba29-329bc7b12cdc) Admin Panel
+![image](https://github.com/user-attachments/assets/d2acccb6-1803-41a9-8452-984441b387d2) Employee Panel
+
+
+
 
 
 
